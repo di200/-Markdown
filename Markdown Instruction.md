@@ -32,6 +32,12 @@
 
 ## Работа с таблицами
 
+Чтобы вставить таблицу в текст нужно написать следующее:
+|This is   |a simple   |table header|
+|----------|-----------|------------|
+|table     |data       |here        |
+|it doesn't|actually   |have to line up nicely!|
+
 ## Цитаты
 
 ## Заключение
